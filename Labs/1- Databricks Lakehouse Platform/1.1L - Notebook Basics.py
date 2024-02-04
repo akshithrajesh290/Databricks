@@ -55,7 +55,7 @@ SELECT 5 + 10
 # MAGIC 1. In the new cell, add Markdown with a header and bullet points as shown in the following image
 # MAGIC
 # MAGIC <div>
-# MAGIC   <img src="https://raw.githubusercontent.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate/main/Labs/Includes/images/markdown.png">
+# MAGIC   <img src="https://raw.githubusercontent.com/akshithrajesh290/Databricks/main/Labs/Includes/images/markdown.png">
 # MAGIC </div>
 
 # COMMAND ----------

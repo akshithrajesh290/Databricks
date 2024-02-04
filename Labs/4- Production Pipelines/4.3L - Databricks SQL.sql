@@ -14,7 +14,7 @@
 -- MAGIC %md-sandbox
 -- MAGIC
 -- MAGIC <div  style="text-align: center; line-height: 0; padding-top: 9px;">
--- MAGIC   <img src="https://raw.githubusercontent.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate/main/Labs/Includes/images/dashboard.png" style="width: 1100">
+-- MAGIC   <img src="https://raw.githubusercontent.com/akshithrajesh290/Databricks/main/Labs/Includes/images/dashboard.png" style="width: 1100">
 -- MAGIC </div>
 
 -- COMMAND ----------
@@ -40,7 +40,7 @@ LIMIT 10
 -- MAGIC Create a bar graph that shows the number of students per country
 -- MAGIC
 -- MAGIC <br>
--- MAGIC <img src="https://raw.githubusercontent.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate/main/Labs/Includes/images/bar_graph.png" style="width: 100">
+-- MAGIC <img src="https://raw.githubusercontent.com/akshithrajesh290/Databricks/main/Labs/Includes/images/bar_graph.png" style="width: 100">
 -- MAGIC
 -- MAGIC ##### Anwser:
 -- MAGIC Steps:
@@ -90,7 +90,7 @@ GROUP BY enroll_timestamp
 -- MAGIC
 -- MAGIC
 -- MAGIC <br>
--- MAGIC <img src="https://raw.githubusercontent.com/derar-alhussein/Databricks-Certified-Data-Engineer-Associate/main/Labs/Includes/images/line_graph.png" style="width: 100">
+-- MAGIC <img src="https://raw.githubusercontent.com/akshithrajesh290/Databricks/main/Labs/Includes/images/line_graph.png" style="width: 100">
 -- MAGIC
 -- MAGIC
 -- MAGIC ##### Anwser:
